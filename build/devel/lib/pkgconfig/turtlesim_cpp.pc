@@ -1,0 +1,8 @@
+prefix=/home/ltq/catkin_ws/src/turtlesim_cpp/build/devel
+
+Name: turtlesim_cpp
+Description: Description of turtlesim_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
